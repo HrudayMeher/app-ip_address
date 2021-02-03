@@ -109,5 +109,5 @@ function main() {
 /*
   Call main to run it.
 */
-//main();
-module.exports.getIpv4MappedIpv6Address = getIpv4MappedIpv6Address;
+main();
+//module.exports.getIpv4MappedIpv6Address = getIpv4MappedIpv6Address;
